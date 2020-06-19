@@ -10,4 +10,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 I've made a change, because I can.
 
-Lauren wants to add something here.
+Lauren thinks this is important to add.
